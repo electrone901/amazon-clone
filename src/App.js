@@ -9,10 +9,10 @@ function App() {
       <div className="app">
         <Switch>
           <Route path="/checkout">
-            <h1>checkout</h1>{' '}
+            <h1>checkout</h1>
           </Route>
           <Route path="/login">
-            <h1>login</h1>{' '}
+            <h1>login</h1>
           </Route>
           <Route path="/">
             <Header />
