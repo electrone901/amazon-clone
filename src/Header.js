@@ -7,7 +7,7 @@ import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket'
 function Header() {
   return (
     <nav className="header">
-      <Link to="login">
+      <Link to="/">
         <img
           src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
           alt="Logo"
@@ -21,7 +21,7 @@ function Header() {
 
       <div className="header_nav">
         {/* 1st link */}
-        <Link to="/" className="header__link">
+        <Link to="/login" className="header__link">
           <div className="header__option">
             <span className="header__optionLineOne">Hello</span>
             <span className="header__optionLineTwo">Sign in</span>
