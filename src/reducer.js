@@ -1,5 +1,33 @@
 export const initialState = {
-  basket: [],
+  basket: [
+    {
+      id: '1005',
+      title:
+        'New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)',
+      price: 598.99,
+      image:
+        'https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg',
+      rating: 4,
+    },
+    {
+      id: '1006',
+      title:
+        'New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)',
+      price: 598.99,
+      image:
+        'https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg',
+      rating: 4,
+    },
+    {
+      id: '1007',
+      title:
+        'New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)',
+      price: 598.99,
+      image:
+        'https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg',
+      rating: 4,
+    },
+  ],
   user: null,
 }
 
