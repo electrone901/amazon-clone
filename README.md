@@ -3,20 +3,25 @@
 It is a fully functional E-Commer Amazon clone including user registration, user login, user authentication, shop cart management, checkout, etc.
 
 ## [Amazon Clone Web App]("https://clone-c6147.web.app/")
-- Main Page
-![Main Page]()
 
+- Main Page
+  ![Main Page](https://raw.githubusercontent.com/electrone901/amazon-clone/main/src/images/1.png) <br> <br>
+
+- Checkout
+  ![Checkout](https://raw.githubusercontent.com/electrone901/amazon-clone/main/src/images/2.png)<br> <br>
+
+- Login
+  ![Login](https://github.com/electrone901/amazon-clone/blob/main/src/images/3.png?raw=true)
 
 ## Technical Skills used in this project
 
-| Front End                     | Back End                              |
-| ----------------------------- | :------------------------------------ |
-| ✔ react js                 | ✔ Authtentication with Firebase                         |
-| ✔  react hooks react router                 | ✔ Firebase Hosting                      |
-| ✔ CSS                |  -    |
-| ✔ Material-UI              | -           |
-| ✔ react-currency-format    |- |
-
+| Front End                  | Back End                        |
+| -------------------------- | :------------------------------ |
+| ✔ react js                 | ✔ Authtentication with Firebase |
+| ✔ react hooks react router | ✔ Firebase Hosting              |
+| ✔ CSS                      | -                               |
+| ✔ Material-UI              | -                               |
+| ✔ react-currency-format    | -                               |
 
 ## Demo
 
@@ -38,7 +43,5 @@ It is a fully functional E-Commer Amazon clone including user registration, user
 - Views are on: `localhost:3000`
 
 - Setup `Firebase` and enable the authentication fuctionality
-
-
 
 ### Hope this repo helps someone get started, happy coding ☕☕👨‍💻
