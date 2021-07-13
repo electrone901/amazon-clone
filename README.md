@@ -1,6 +1,6 @@
 ## Amazon Clone
 
-It is a fully functional E-Commer Amazon clone including user registration, user login, user authentication, shop cart management, checkout, etc.
+This is an E-Commer-Amazon clone with the main functionality such as `user registration`, `user login`, `user authentication`, `shop cart management`, `checkout`, and more. 
 
 ## [Amazon Clone Web App]("https://clone-c6147.web.app/")
 
