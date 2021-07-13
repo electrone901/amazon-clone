@@ -5,20 +5,13 @@ This is an E-Commer-Amazon clone with the main functionality such as `user regis
 ## Demo
 
 - [Home Page](https://clone-c6147.web.app/)
-![Main Page](https://raw.githubusercontent.com/electrone901/amazon-clone/main/src/images/1.png) <br> <br>
+  ![Main Page](https://raw.githubusercontent.com/electrone901/amazon-clone/main/src/images/1.png) <br> <br>
 
-- [Register Page](https://clone-c6147.web.app/login)
-- [Login Page](https://clone-c6147.web.app/login)
 - [Checkout Page](https://clone-c6147.web.app/checkout)
-
-- Main Page
-
-
-- Checkout
   ![Checkout](https://raw.githubusercontent.com/electrone901/amazon-clone/main/src/images/2.png)<br> <br>
 
-- Login
-  ![Login](https://github.com/electrone901/amazon-clone/blob/main/src/images/3.png?raw=true)
+- [Register& Login Page](https://clone-c6147.web.app/login)
+  ![Login](https://github.com/electrone901/amazon-clone/blob/main/src/images/3.png?raw=true)<br> <br>
 
 ## Technical Skills used in this project
 
