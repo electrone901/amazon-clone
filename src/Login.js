@@ -5,8 +5,8 @@ import { auth } from './firebase'
 
 function Login() {
   const history = useHistory()
-  const [email, setEmail] = useState('')
-  const [password, setPassword] = useState('')
+  const [email, setEmail] = useState('Demo_user@gmail.com')
+  const [password, setPassword] = useState('password')
 
   const login = (event) => {
     event.preventDefault()
@@ -50,6 +50,7 @@ function Login() {
           />
           <h5>Password</h5>
           <input
+            value={password}
             onChange={(e) => setPassword(e.target.value)}
             type="password"
           />
