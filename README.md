@@ -1,11 +1,18 @@
 ## Amazon Clone
 
-This is an E-Commer-Amazon clone with the main functionality such as `user registration`, `user login`, `user authentication`, `shop cart management`, `checkout`, and more. 
+This is an E-Commer-Amazon clone with the main functionality such as `user registration`, `user login`, `user authentication`, `shop cart management`, `checkout`, and more.
 
-## [Amazon Clone Web App]("https://clone-c6147.web.app/")
+## Demo
+
+- [Home Page](https://clone-c6147.web.app/)
+![Main Page](https://raw.githubusercontent.com/electrone901/amazon-clone/main/src/images/1.png) <br> <br>
+
+- [Register Page](https://clone-c6147.web.app/login)
+- [Login Page](https://clone-c6147.web.app/login)
+- [Checkout Page](https://clone-c6147.web.app/checkout)
 
 - Main Page
-  ![Main Page](https://raw.githubusercontent.com/electrone901/amazon-clone/main/src/images/1.png) <br> <br>
+
 
 - Checkout
   ![Checkout](https://raw.githubusercontent.com/electrone901/amazon-clone/main/src/images/2.png)<br> <br>
@@ -22,13 +29,6 @@ This is an E-Commer-Amazon clone with the main functionality such as `user regis
 | ✔ CSS                      | -                               |
 | ✔ Material-UI              | -                               |
 | ✔ react-currency-format    | -                               |
-
-## Demo
-
-- [Home Page](https://clone-c6147.web.app/)
-- [Register Page](https://clone-c6147.web.app/login)
-- [Login Page](https://clone-c6147.web.app/login)
-- [Checkout Page](https://clone-c6147.web.app/checkout)
 
 ## Quick start
 
