@@ -24,13 +24,14 @@ function Header() {
           className="header__logo"
         />
       </Link>
+
       <div className="header__search">
         <input type="text" className="header__searchInput" />
         <SearchIcon className="header__searchIcon" />
       </div>
 
       <div className="header_nav">
-        <Link to={!user && '/login'} className="header__link">
+        <Link to={`${!user} && '/login'`} className="header__link">
           <div onClick={login} className="header__option">
             <span className="header__optionLineOne">Hello {user?.email} </span>
             <span className="header__optionLineTwo">

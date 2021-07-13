@@ -2,7 +2,7 @@
 
 It is a fully functional E-Commerical Amazon clone including user register, user login, user authentication, shop cart management, order management, and payment using STRIPE, etc.
 
-## [Amazon Clone Web App]("web url")
+## [Amazon Clone Web App]("https://clone-c6147.web.app/")
 
 ## Technical Skills used in this project
 
